@@ -12,4 +12,26 @@ html, body {
   .footer,
   .push {
     height: 50px;
+    text-align: center;
   }
+  ul {
+    background-color: white;
+
+  }
+.footer{
+  background-color: white;
+}
+.ProjectSec {
+  margin-top: 59px;
+  margin-left: 47px;
+  margin-right:47px;
+}
+
+#ProjectBg {
+    background-image: url('https://images.pexels.com/photos/2405637/pexels-photo-2405637.png?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#Project2 {
+  float: right;
+}

@@ -4,7 +4,8 @@ html, body {
   }
   .wrapper {
     min-height: 100%;
-  
+    align-content: center;
+    text-align: center;
     /* Equal to height of footer */
     /* But also accounting for potential margin-bottom of last child */
     margin-bottom: -50px;
@@ -12,4 +13,9 @@ html, body {
   .footer,
   .push {
     height: 50px;
+    text-align: center;
+  }
+
+  .HomeJum {
+    margin-top: 50px;
   }
