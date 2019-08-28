@@ -19,3 +19,8 @@ html, body {
   .HomeJum {
     margin-top: 50px;
   }
+  .jumbotron {
+    background-image: url('https://images.pexels.com/photos/984539/pexels-photo-984539.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260');
+    background-size: cover;
+    
+  }
