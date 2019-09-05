@@ -12,15 +12,18 @@ html, body {
   .footer,
   .push {
     height: 50px;
+    
     text-align: center;
   }
   ul {
     background-color: white;
 
   }
-.footer{
-  background-color: white;
-}
+  .footer {
+
+    background-color: white;
+  }
+
 .ProjectSec {
   margin-top: 59px;
   margin-left: 47px;
@@ -34,6 +37,10 @@ html, body {
 }
 #Project2 {
   float: right;
+}
+#bamazon {
+  margin-top: 12rem;
+  float: left;
 }
 
 .AboutSec {
