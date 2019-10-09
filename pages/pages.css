@@ -41,10 +41,10 @@ html, body {
   background-repeat: no-repeat;
   background-size: cover; 
 }
-#Project2 {
+#Project2, #Friend {
   float: right;
 }
-#bamazon {
+#bamazon, #burger {
  
   float: left;
 }
